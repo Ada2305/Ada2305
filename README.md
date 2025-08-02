@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Ada 👋
+I'm an undergraduate student majoring in Economics and Computer Science at NYU.
+
+**Programming Languages:** Python, Java, HTML/CSS, C++, JavaScript
+**Libraries & Frameworks:** scikit-learn, Pandas, NumPy, matplotlib
 
 <!--
 **Ada2305/Ada2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
