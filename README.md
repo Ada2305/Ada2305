@@ -5,6 +5,9 @@ I'm an undergraduate student majoring in Economics and Computer Science at NYU.
 
 **Libraries & Frameworks:** scikit-learn, Pandas, NumPy, matplotlib
 
+[**LinkedIn**](www.linkedin.com/in/ada-lin-7527b8280)
+
+**Email:** Ada.Lin.135@gmail.com
 <!--
 **Ada2305/Ada2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
